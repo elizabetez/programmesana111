@@ -1,4 +1,5 @@
 from flask import Flask, render_template
+from dati import dabut_rindinas
 
 app = Flask(__name__)
 
